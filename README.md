@@ -1,4 +1,4 @@
-## https://anazon-store-app.vercel.app/?vercelToolbarCode=4AGB-xroBA1rU5X
+## https://anazon-store-app.vercel.app
 # Anazon Store App
 ## Description
 

@@ -1,19 +1,14 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Clarus Store
+
+# Anazon Store
 ## Description
 
-Project aims to create a Clarus Store.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+Project aims to create a Store App.
 
 ## Project Skeleton
 
 ```
-Clarus Store with Typescript+Tailwindcss+Redux-Toolkit
+Typescript+Tailwindcss+Redux-Toolkit
 
 SOLUTION
 ├── src
@@ -37,6 +32,7 @@ SOLUTION
 │    └── react-app-env.d.ts
 ├── package.json
 ├── README.md
+├── anazon-store.gif
 ├── tailwind.config.js
 ├── tsconfig.json
 └── yarn.lock

@@ -8,8 +8,6 @@ Project aims to create a simple Store App.
 ## Project Skeleton
 
 ```
-Typescript+Tailwindcss+Redux-Toolkit
-
 SOLUTION
 ├── src
 │    ├── index.css

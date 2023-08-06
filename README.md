@@ -2,7 +2,7 @@
 # Anazon Store App
 ## Description
 
-Project aims to create a simple Store App.
+Welcome to the Blog Application! This project aims to create a simple Store App.
 
 
 ## Project Skeleton
